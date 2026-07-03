@@ -111,10 +111,10 @@ Raw Data (heart.csv)
 | Model | Accuracy | F1 Score |
 |---|---|---|
 | **Logistic Regression** ✅ | ~86% | ~87% |
-| Decision Tree Classifier | — | — |
-| Gaussian Naive Bayes | — | — |
-| K-Nearest Neighbors | — | — |
-| Support Vector Machine | — | — |
+| Decision Tree Classifier | ~80% | ~82% |
+| Gaussian Naive Bayes | ~84% | ~86% |
+| K-Nearest Neighbors | ~83% | ~85% |
+| Support Vector Machine | ~84% | ~85% |
 
 > ✅ **Logistic Regression** was selected as the best-performing model based on Accuracy and F1 Score.
 
@@ -245,10 +245,9 @@ Heart_disease_project/
 **Rases Gorasiya**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rases-Gorasiya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rases-gorasiya-57aba0370/?skipRedirect=true)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gorasiyarashes@gmail.com)
 
-> 💡 *Replace the LinkedIn and Email links above with your actual profile links.*
 
 ---
 
